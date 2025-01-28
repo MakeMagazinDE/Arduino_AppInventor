@@ -12,4 +12,4 @@ Die Entwicklungsumgebung MIT App Inventor bietet nicht nur einen grafischen Edit
 
 ![Picture](./aufmacher.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/25 ab Seite 110](https://www.heise.de/select/make/2025/1/2433910051121482725). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/25 ab Seite 112](https://www.heise.de/select/make/2025/1/2433910051121482725). Hier finden Sie die 3D-Druckdateien für die Absaugung.
