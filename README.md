@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Arduino über App-Inventor-Apps steuern
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Die Entwicklung von Apps ist über die Entwicklungsumgebung MIT App Inventor kinderleicht.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Die Entwicklungsumgebung MIT App Inventor bietet nicht nur einen grafischen Editor für Benutzeroberflächen, sondern ermöglicht auch das visuelle Programmieren über Blöcke.
 
-![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
+![Picture](./aufmacher.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/25 ab Seite 110](https://www.heise.de/select/make/2025/1/2433910051121482725). Hier finden Sie die 3D-Druckdateien für die Absaugung.
